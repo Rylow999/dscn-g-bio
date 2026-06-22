@@ -51,7 +51,7 @@ The framework organizes predictions by ascending resource requirement:
 
 ## Installation & Usage
 ```bash
-git clone https://github.com/Rylow999/dscn-g.git
+git clone https://github.com/Rylow999/dscn-g-framework.git
 cd dscn-g
 pip install -r requirements.txt
 python src/dscn_bio_eeg_analyzer.py
@@ -59,7 +59,7 @@ python src/dscn_bio_eeg_analyzer.py
 *Note: For production analysis on real human EEG data (e.g., MNE-Python pipelines), uncomment `mne>=1.6.0` in `requirements.txt` and replace the `mock_ica_rejection()` function with MNE's FastICA implementation.*
 
 ## Companion Repository
-*   **[DSCN-G Core Framework](https://github.com/Rylow999/dscn-g)** — The pure computational architecture with formally verified theorems (Homeostasis, Vector Attractors, Phase Convergence).
+*   **[DSCN-G Core Framework](https://github.com/Rylow999/dscn-g-framework)** — The pure computational architecture with formally verified theorems (Homeostasis, Vector Attractors, Phase Convergence).
 
 ## Citation
 If you use this framework, test its predictions, or build upon its mathematical foundations, please cite:
