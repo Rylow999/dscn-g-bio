@@ -1,0 +1,15 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite it as below."
+type: software
+title: "DSCN-BIO: Biological Testability of DSCN-G"
+repository-code: "https://github.com/dscn-g-bio"
+abstract: "Biological testability framework for DSCN-G. EEG falsification protocols, three-phase model of deep comprehension, and experimental predictions."
+keywords:
+  - "EEG"
+  - "phase-hijacking"
+  - "neural correlates"
+  - "deep comprehension"
+  - "autopoiesis"
+license: MIT
+version: 3.1
+date-released: 2026-06-22
