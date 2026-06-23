@@ -1,8 +1,9 @@
 # DSCN-G-BIO: Biological Testability of DSCN-G
 
-**Version:** 5.0 (Updated with DSCN-G v7.2 Corrections)
+**Author:** Luciano Benjamín Nieto  
+**Contact:** lucianobenjaminnieto@gmail.com  
 
-**License:** MIT (Share freely, build upon it, no restrictions)
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
 
 ---
 
