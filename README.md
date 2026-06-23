@@ -95,7 +95,7 @@ If you use this framework, test its predictions, or build upon its mathematical 
 @software{DSCNGBIO2026,
   title={DSCN-G-BIO: Biological Testability and Neural Correlates of the DSCN-G Cognitive Architecture},
   author={Nieto, Luciano Benjamín},
-  year={2026},  version={5.0},
+  year={2026},
   url={https://github.com/Rylow999/dscn-g-bio}
 }
 ```
