@@ -85,7 +85,7 @@ _Note: For production analysis on real human EEG data (e.g., MNE-Python pipeline
 
 ## Companion Repositories
 
-- **[DSCN-G Core Framework](https://github.com/Rylow999/dscn-g)** — The pure computational architecture with formally verified theorems (Homeostasis, Vector Attractors, Phase Convergence). **v7.2** includes critical corrections to Eq. 3 and Eq. 7.
+- **[DSCN-G Core Framework](https://github.com/Rylow999/dscn-g-framework)** — The pure computational architecture with formally verified theorems (Homeostasis, Vector Attractors, Phase Convergence). **v7.2** includes critical corrections to Eq. 3 and Eq. 7.
 
 ## Citation
 
