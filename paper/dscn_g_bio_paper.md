@@ -1,6 +1,6 @@
 # DSCN-G-BIO: Neural Correlates and Biological Testability of the DSCN-G Framework
-
 ## From Phase-Hijacking to the Three-Phase Model of Deep Comprehension
+### NOUS Series • Paper 2
 
 **Author:** Luciano Benjamín Nieto  
 **Affiliation:** Independent Research  
