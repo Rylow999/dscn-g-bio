@@ -103,4 +103,5 @@ If you use this framework, test its predictions, or build upon its mathematical 
 
 ---
 
-**Per Aspera, Ad Astra.**
+*Per Aspera, Ad Astra.*
+*Framework: DSCN-G v7.2*
